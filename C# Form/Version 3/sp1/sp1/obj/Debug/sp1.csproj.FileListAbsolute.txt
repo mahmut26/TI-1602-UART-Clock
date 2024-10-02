@@ -1,0 +1,16 @@
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\sp1\sp1\bin\Debug\sp1.exe
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\sp1\sp1\bin\Debug\sp1.pdb
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.csprojResolveAssemblyReference.cache
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.MainForm.resources
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.csproj.GenerateResource.Cache
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.exe
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.pdb
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\bin\Debug\sp1.exe.config
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\bin\Debug\sp1.exe
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\bin\Debug\sp1.pdb
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.csproj.AssemblyReference.cache
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.MainForm.resources
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.csproj.GenerateResource.cache
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.csproj.CoreCompileInputs.cache
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.exe
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\sp1\sp1\obj\Debug\sp1.pdb

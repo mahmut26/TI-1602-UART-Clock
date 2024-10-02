@@ -1,0 +1,16 @@
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.csprojResolveAssemblyReference.cache
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.MainForm.resources
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.csproj.GenerateResource.Cache
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\ODEV\ODEV\bin\Debug\ODEV.exe
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\ODEV\ODEV\bin\Debug\ODEV.pdb
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.exe
+C:\Users\Mahmut T. Kanbollu\Documents\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.pdb
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\bin\Debug\ODEV.exe.config
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\bin\Debug\ODEV.exe
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\bin\Debug\ODEV.pdb
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.csproj.AssemblyReference.cache
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.MainForm.resources
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.csproj.GenerateResource.cache
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.csproj.CoreCompileInputs.cache
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.exe
+D:\laptop\kurtarma\Şarp Develop\SharpDevelop Projects\ODEV\ODEV\obj\Debug\ODEV.pdb
